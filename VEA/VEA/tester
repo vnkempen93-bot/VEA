@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Van Exel Automatisering | Uw IT-Partner</title>
+    <img href="VEA logo.jpg" rel="stylesheet">
+ 
+    <link rel="stylesheet" href="basis.css">
+</head>
+<body>
+
+    <nav>
+        <div class="logo">van Exel </div>
+        <ul>
+            <li><a href="homepage">Home</a></li>
+            <li><a href="#">Diensten</a></li>
+            <li><a href="#">Support</a></li>
+            <li><a href="#">Nieuws</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <h1>contact</h1>
+        <p>Wij maken complexe techniek begrijpelijk en zorgen dat uw bedrijf altijd online is.</p>
+        <a href="#diensten" class="btn">Contact mogelijkheden</a>
+    </header>
+
+    <section id="diensten" class="services">
+        <!-- Bel optie (telefoonnummer invullen bij href) -->
+        <a href="tel:0331234567" class="service-card" style="text-decoration: none; color: inherit; display: block;">
+            <h3>Bellen</h3>
+            <p>Direct telefonisch contact met een van onze IT-specialisten via 033-1234567.</p>
+        </a>
+        
+        <!-- Mail optie (e-mailadres invullen bij href) -->
+        <a href="mailto:info@vanexel.nl" class="service-card" style="text-decoration: none; color: inherit; display: block;">
+            <h3>Mailen</h3>
+            <p>Stuur ons een bericht en ontvang binnen één werkdag een reactie.</p>
+        </a>
+        
+        <!-- WhatsApp optie (telefoonnummer zonder spaties of eerste 0 invullen bij href, start met 316...) -->
+        <a href="https://wa.me" target="_blank" class="service-card" style="text-decoration: none; color: inherit; display: block;">
+            <h3>WhatsApp</h3>
+            <p>Stuur snel en eenvoudig een appje naar onze supportafdeling.</p>
+        </a>
+    </section>
+
+    <footer>
+        <div class="footer-grid">
+            <div>
+                <h4>Contact</h4>
+                <p>Stationsplein 123<br>Nijkerk<br>033-1234567</p>
+            </div>
+            <div>
+                <h4>Support</h4>
+                <p><a href="#" style="color: #ccc;">Klant Portaal</a><br><a href="#" style="color: #ccc;">TeamViewer Hulp</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 Van Exel Automatisering. Alle rechten voorbehouden.
+        </div>
+    </footer>
+
+</body>
+</html>

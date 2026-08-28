@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "titel": "Test nieuws",
+    "datum": "2026-07-03",
+    "tekst": "Dit is een NIEUWE test",
+    "image": "uploads/nieuws/"
+  }
+]
