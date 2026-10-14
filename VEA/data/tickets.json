@@ -1,0 +1,14 @@
+[
+    {
+        "ticket_number": "VEA-2026-0004",
+        "customer_id": "cust_6a930c14184255.30204593",
+        "customer_name": "jason van kempen",
+        "customer_email": "vnkempen93@gmail.com",
+        "subject": "internet werkt niet",
+        "category": "Netwerk",
+        "description": "edwin mijn internet werkt niet kan jij hier even naar kijken ?",
+        "status": "gesloten",
+        "created_at": "2026-08-29 20:06",
+        "admin_last_seen_at": "2026-08-29 20:08"
+    }
+]

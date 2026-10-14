@@ -1,0 +1,5 @@
+{
+    "support_email": "support@example.com",
+    "ticket_prefix": "VEA",
+    "next_ticket_sequence": 5
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "id": "msg_6a931fae0a1e94.31575545",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "edwin mijn internet werkt niet kan jij hier even naar kijken ?",
+        "created_at": "2026-08-29 20:06"
+    },
+    {
+        "id": "msg_6a931fcf7dcbc3.99473695",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "admin",
+        "sender_name": "Van Exel Automatisering",
+        "sender_email": "support@example.com",
+        "body": "heb je al geprobeerd je computer opnieuw op te starten?",
+        "created_at": "2026-08-29 20:07"
+    },
+    {
+        "id": "msg_6a931feb833787.22216203",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "ja dat heb ik al geprobeerd maar dat helpt niet",
+        "created_at": "2026-08-29 20:07"
+    },
+    {
+        "id": "msg_6a932005997201.97863520",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "admin",
+        "sender_name": "Van Exel Automatisering",
+        "sender_email": "support@example.com",
+        "body": "oke dan ga ik er even naar kijken ik laat het weten als het is gelukt",
+        "created_at": "2026-08-29 20:08"
+    },
+    {
+        "id": "msg_6a932016edb539.07308002",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "dankjewel",
+        "created_at": "2026-08-29 20:08"
+    },
+    {
+        "id": "msg_6a932187488a27.84011107",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "edwin help!!!!!!!!",
+        "created_at": "2026-08-29 20:14"
+    },
+    {
+        "id": "msg_6a932195a61aa6.02703871",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "krijg ik nu een 2",
+        "created_at": "2026-08-29 20:14"
+    },
+    {
+        "id": "msg_6a93219e9d2656.04213425",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "3",
+        "created_at": "2026-08-29 20:14"
+    },
+    {
+        "id": "msg_6a9321bca68af8.03305344",
+        "ticket_number": "VEA-2026-0004",
+        "sender_type": "customer",
+        "sender_name": "jason van kempen",
+        "sender_email": "vnkempen93@gmail.com",
+        "body": "hij is niet gesloten",
+        "created_at": "2026-08-29 20:15"
+    }
+]

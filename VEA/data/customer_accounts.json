@@ -1,0 +1,11 @@
+[
+    {
+        "id": "cust_6a9319bd009717.27336355",
+        "name": "Klant Een",
+        "username": "klant1",
+        "email": "klant1@example.com",
+        "password_hash": "$2y$10$LI7tVTLNbH6gAVszW315TuIPnyX3V4l1HoXSYvfMd5V5J/Ssj4ScO",
+        "active": true,
+        "created_at": "2026-08-29 19:41"
+    }
+]

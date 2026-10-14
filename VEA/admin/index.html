@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin | Van Exel Automatisering</title>
+    <meta name="robots" content="noindex,nofollow">
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+    <div class="wrapper">
+        <aside class="sidebar">
+            <h2>CMS Admin</h2>
+            <ul>
+                <li><a href="#dashboard">Dashboard</a></li>
+                <li><a href="#banner">Banner beheren</a></li>
+                <li><a href="#nieuws">Nieuws beheren</a></li>
+                <li><a href="#merken">Merken beheren</a></li>
+                <li><a href="../homepage.html">Website bekijken</a></li>
+            </ul>
+        </aside>
+
+        <main class="content">
+            <div class="topbar" id="dashboard">
+                <h1>Beheeromgeving</h1>
+                <p>Hier beheer je de banner, nieuwsberichten en logo's van de website.</p>
+            </div>
+
+            <section class="stats-grid">
+                <div class="card stat-card">
+                    <h3>Banner</h3>
+                    <div class="stat-number">Uit</div>
+                    <p>Tekst staat klaar om te activeren.</p>
+                </div>
+                <div class="card stat-card">
+                    <h3>Nieuwsberichten</h3>
+                    <div class="stat-number">1</div>
+                    <p>Er staat momenteel één nieuwsbericht online.</p>
+                </div>
+                <div class="card stat-card">
+                    <h3>Merken</h3>
+                    <div class="stat-number">4</div>
+                    <p>DELL, HP, Lenovo en Microsoft.</p>
+                </div>
+            </section>
+
+            <section class="card" id="banner">
+                <h3>Banner beheren</h3>
+                <p>Deze melding wordt bovenaan de website getoond.</p>
+                <div style="margin-top: 18px;">
+                    <label style="display:block; margin-bottom: 8px;">
+                        <input type="checkbox">
+                        Banner inschakelen
+                    </label>
+                    <label for="banner-text" style="display:block; margin-bottom: 8px;">Bannertekst</label>
+                    <textarea id="banner-text" rows="4" style="width:100%; padding:12px; border:1px solid #d9e2ec; border-radius:8px;">in week 31-32-33 zijn wij met vakantie voor storingen neem contact op met +31612345678</textarea>
+                </div>
+                <a class="button" href="#">Opslaan</a>
+            </section>
+
+            <section class="card" id="nieuws" style="margin-top: 20px;">
+                <h3>Nieuws beheren</h3>
+                <p>Voeg nieuws toe, bewerk bestaande berichten of verwijder ze.</p>
+
+                <div class="nieuws-card" style="margin-top: 20px;">
+                    <div class="nieuws-foto">
+                        <img src="../uploads/nieuws/nieuws_6a59f43c3a0a9.webp" alt="Nieuws afbeelding">
+                    </div>
+                    <div class="nieuws-info">
+                        <h3>onze nep IT'er krijgt een nieuwe website</h3>
+                        <small>2026-07-17</small>
+                        <p>ronde 3</p>
+                        <div class="nieuws-buttons">
+                            <a class="button" href="#">Bewerken</a>
+                            <a class="button delete" href="#">Verwijderen</a>
+                        </div>
+                    </div>
+                </div>
+
+                <a class="button" href="#" style="margin-top: 20px;">Nieuw bericht toevoegen</a>
+            </section>
+
+            <section class="card" id="merken" style="margin-top: 20px;">
+                <h3>Merken beheren</h3>
+                <p>Upload hier de logo's die in de slider op de website verschijnen.</p>
+
+                <div style="margin-top: 18px;">
+                    <label for="merknaam" style="display:block; margin-bottom: 8px;">Merknaam</label>
+                    <input id="merknaam" type="text" value="" style="width:100%; padding:12px; border:1px solid #d9e2ec; border-radius:8px; margin-bottom: 12px;">
+
+                    <label for="merkbestand" style="display:block; margin-bottom: 8px;">Logo bestand</label>
+                    <input id="merkbestand" type="file" style="margin-bottom: 16px;">
+                </div>
+
+                <div class="stats-grid" style="margin-top: 10px;">
+                    <div class="card">
+                        <h3>DELL</h3>
+                        <p>6a5dea16c2c5c.png</p>
+                    </div>
+                    <div class="card">
+                        <h3>HP</h3>
+                        <p>6a5dea217aa94.png</p>
+                    </div>
+                    <div class="card">
+                        <h3>Lenovo</h3>
+                        <p>6a5dea2ad29d9.png</p>
+                    </div>
+                    <div class="card">
+                        <h3>Microsoft</h3>
+                        <p>6a5dea33be434.png</p>
+                    </div>
+                </div>
+
+                <a class="button" href="#">Uploaden</a>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
